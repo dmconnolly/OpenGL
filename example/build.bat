@@ -1,0 +1,1 @@
+..\mingw\mingw64\bin\mingw32-make.exe all -j4

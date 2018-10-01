@@ -1,0 +1,1 @@
+"..\mingw\mingw64\bin\gdb.exe" "build\main.exe"

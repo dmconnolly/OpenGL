@@ -1,0 +1,8 @@
+*/[Bb]uild/*.exe
+.vs/
+docs/
+*.sublime-workspace
+*.pyc
+*.pyo
+*.o
+*.depend
